@@ -1,0 +1,34 @@
+{
+    "creators": [
+        {
+            "name": "Petitpierre, Remi",
+            "orcid": "0000-0001-9138-6727",
+            "affiliation": "EPFL",
+        }
+    ],
+    "title": "bnf-jadis/SuperMapRealigner",
+    "description": "JADIS SuperMapRealigner: A Generic Method for the Automatic Alignment of Historical Maps using Graph Neural Networks",
+    "version": "0.2",
+    "access_right": "open",
+    "keywords": [
+        "georeferencing",
+        "map registration",
+        "graph neural networks",
+        "keypoint matching",
+        "historical cartography"
+    ],
+    "license": "CC-BY-4.0",
+    "upload_type": "software",
+    "language": "eng",
+    "communities": [
+        {"identifier": "epfl"}
+    ],
+    "related_identifiers": [
+        {
+            "identifier": "https://github.com/zenodo/zenodo/blob/master/zenodo/modules/deposit/jsonschemas/deposits/records/legacyrecord.json",
+            "relation": "references",
+            "scheme": "url",
+            "resource_type": "software"
+        }
+    ]
+}
