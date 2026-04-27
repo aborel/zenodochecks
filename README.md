@@ -1,2 +1,2 @@
 # zenodochecks
-Quick Zenodo-Github metadata tests
+Quick Zenodo-Github metadata tests (mod)
